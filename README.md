@@ -12,14 +12,16 @@ List of Open Access Archives and Digital Collections
 | http://www.mgh.de | Monumenta Germaniae Historica | DE |
 | https://almamater.sib.uc.pt/en | Digital library of University of Coimbra | PT |
 
-#Meta
+## Meta
+
 | LINK | DESCRIPTION | COUNTRY |
 | --- | --- | --- |
 | https://archive.org | |
 | http://www.lancaster.ac.uk/staff/haywardp/hist424/resources/collections.htm | |
 | http://www.menestrel.fr/spip.php?rubrique1962&lang=en#4690 | Ménestrel, Medievalist collections | FR |
 
-#Digital Humanities projects on Chronologies
+## Digital Humanities projects on Chronologies
+
 | LINK | DESCRIPTION | COUNTRY |
 | --- | --- | --- |
 | http://opengreekandlatin.github.io/DigitalMarmorParium/ | |
