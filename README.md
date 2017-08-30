@@ -1,7 +1,7 @@
 # openAccessArchives
 List of Open Access Archives and Digital Collections
 
----
+
 | LINK | DESCRIPTION | COUNTRY |
 | --- | --- |
 | http://www.millionimage.org.uk/the-paper-archive-database/ | Paper Archive of old manuscripts | 
