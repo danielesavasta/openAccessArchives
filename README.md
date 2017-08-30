@@ -19,6 +19,7 @@ List of Open Access Archives and Digital Collections
 | https://archive.org | |
 | http://www.lancaster.ac.uk/staff/haywardp/hist424/resources/collections.htm | |
 | http://www.menestrel.fr/spip.php?rubrique1962&lang=en#4690 | Ménestrel, Medievalist collections | FR |
+| http://www.internetculturale.it/opencms/opencms/it/main/esplora/index.html?tipo=collezione | Internet Culturale | IT |
 
 ## Digital Humanities projects on Chronologies
 
