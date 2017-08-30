@@ -13,12 +13,14 @@ List of Open Access Archives and Digital Collections
 | https://almamater.sib.uc.pt/en | Digital library of University of Coimbra | PT |
 
 #Meta
-
+| LINK | DESCRIPTION | COUNTRY |
+| --- | --- | --- |
 | https://archive.org | |
-| http://www.lancaster.ac.uk/staff/haywardp/hist424/resources/collections.htm | 
-| http://www.menestrel.fr/spip.php?rubrique1962&lang=en#4690 | Ménestrel Médiévistes sur le net
+| http://www.lancaster.ac.uk/staff/haywardp/hist424/resources/collections.htm | |
+| http://www.menestrel.fr/spip.php?rubrique1962&lang=en#4690 | Ménestrel, Medievalist collections | FR |
 
 #Digital Humanities projects on Chronologies
-
-| http://opengreekandlatin.github.io/DigitalMarmorParium/
-| http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AuQPAtZsvM9qdDJPakdWS3BTODM3dkNfU2Y5NURhWlE
+| LINK | DESCRIPTION | COUNTRY |
+| --- | --- | --- |
+| http://opengreekandlatin.github.io/DigitalMarmorParium/ | |
+| http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AuQPAtZsvM9qdDJPakdWS3BTODM3dkNfU2Y5NURhWlE | |
